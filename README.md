@@ -12,8 +12,8 @@ Even when I was a child, I could see the obvious impact that advancing technolog
 
 ![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,heroku,bootstrap,django,git,js,postgres,html,css,python,bash)
 
-| Software Packages       |
-| ---------- | --------   |
+| Skills     |            |
+| ---------- | --------   | 
 | React      | NodeJs     |
 | Express    | VS Code    |
 | Render     | MongoDB    |
@@ -21,10 +21,10 @@ Even when I was a child, I could see the obvious impact that advancing technolog
 | Git        | Bash       |
 | Bootstrap  | PostgreSql |
 
-###Programming Languages
+### Programming Languages:
 
-| Programming Languages   |
-| ---------- | --------   |
+| Languages  |            |    
+| ---------- | --------   |  
 | Java       | Javascript |
 | C          | C++        |
 | C#         | Python     |
