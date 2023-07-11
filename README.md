@@ -14,7 +14,7 @@ Even when I was a child, I could see the obvious impact that advancing technolog
 
 | Software Packages       |
 | ---------- | --------   |
-| React      | NodeJs     | 
+| React      | NodeJs     |
 | Express    | VS Code    |
 | Render     | MongoDB    |
 | Django     | Heroku     |
@@ -87,7 +87,7 @@ A basic slot machine built using vanilla JavaScript, HTML5, and CSS3.
 
 ## Portfolio/Contact
 
-
+-->
 
 <!--
 **Jokeslayer/Jokeslayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
